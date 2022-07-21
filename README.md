@@ -1,3 +1,5 @@
+# MOVED to GitLab: https://gitlab.com/denovodavid/grass
+
 # Grass
 
 Playing around with instanced rendering, shaders, and environment visuals.
